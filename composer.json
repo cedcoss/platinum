@@ -1,0 +1,8 @@
+{
+    "name": "ced/platinum",
+    "description": "Cedcoss platinum package",
+    "type": "magento2-module",
+    "license": [
+        "EULA"
+    ]
+}
